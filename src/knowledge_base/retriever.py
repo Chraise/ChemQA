@@ -1,6 +1,7 @@
 from typing import List, Dict, Any, Optional
 from src.knowledge_base.vector_store import VectorStore
 from src.utils.logger import logger
+from config.settings import settings
 
 
 class Retriever:
@@ -13,18 +14,20 @@ class Retriever:
             logger.error(f"Failed to initialize Retriever: {str(e)}")
             raise
 
-    def search(self, query: str, top_k: int = 3) -> List[Dict[str, Any]]:
+    def search(self, query: str, top_k: int = None) -> List[Dict[str, Any]]:
         """
         搜索与查询相关的文档
 
         Args:
             query: 查询文本
-            top_k: 返回的最相关文档数量
+            top_k: 返回的最相关文档数量，如果为None则使用settings中的配置
 
         Returns:
             包含相关文档和相似度分数的列表
         """
         try:
+            # 使用settings中的配置值
+            top_k = top_k or settings.RETRIEVAL_TOP_K
             logger.info(f"Searching for query: {query}")
             results = self.vector_store.similarity_search(query, top_k)
             logger.info(f"Found {len(results)} relevant documents")
@@ -36,7 +39,7 @@ class Retriever:
     def retrieve_relevant_context(
         self,
         query: str,
-        top_k: int = 3,
+        top_k: int = None,
         min_score: float = 0.5,
         return_dict_list: bool = False
     ):
@@ -44,15 +47,18 @@ class Retriever:
         检索与查询相关的上下文
         Args:
             query: 查询文本
-            top_k: 返回的最相关文档数量
+            top_k: 返回的最相关文档数量，如果为None则使用settings中的配置
             min_score: 最小相似度分数阈值
             return_dict_list: 是否返回文献分块字典列表
         Returns:
             合并后的相关上下文文本，或文献分块字典列表
         """
         try:
-            # 搜索相关文档
-            results = self.search(query, top_k)
+            # 使用settings中的配置值
+            top_k = top_k or settings.RETRIEVAL_TOP_K
+            logger.info(f"Searching for query: {query}")
+            results = self.vector_store.similarity_search(query, top_k)
+            logger.info(f"Found {len(results)} relevant documents")
 
             if not results:
                 logger.warning("No relevant documents found")
