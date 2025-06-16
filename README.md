@@ -1,4 +1,4 @@
-# 有机电催化专家系统 (Organic Electrocatalysis Expert System)
+# Organic Electrocatalysis Expert System
 
 这是一个基于深度学习的有机电催化专家系统，能够回答与有机电催化相关的问题，并提供专业的分析和建议。
 
@@ -14,42 +14,6 @@
 
 - Python 3.8+
 - 操作系统：Linux/macOS/Windows
-
-## 安装步骤
-
-1. 克隆仓库：
-```bash
-git clone [repository_url]
-cd ChemQA
-```
-
-2. 安装依赖：
-```bash
-pip install -r requirements.txt
-```
-
-3. 配置环境变量：
-```bash
-cp .env.example .env
-# 编辑 .env 文件，填入必要的配置信息
-```
-
-## 使用方法
-
-1. 启动系统：
-```bash
-python main.py
-```
-
-2. 交互式问答：
-```bash
-python main.py -q "您的问题"
-```
-
-3. 批量处理问题：
-```bash
-python main.py -f questions.txt
-```
 
 ## 项目结构
 
@@ -97,15 +61,3 @@ ChemQA/
 1. 首次运行前请确保已正确配置 API 密钥
 2. 建议定期更新知识库以保持信息的时效性
 3. 处理大量文献时请确保有足够的磁盘空间
-
-## 贡献指南
-
-欢迎提交 Issue 和 Pull Request 来帮助改进项目。
-
-## 许可证
-
-[许可证类型]
-
-## 联系方式
-
-[联系方式] 
