@@ -23,7 +23,7 @@ class Settings:
     DEEPSEEK_API_CONFIG = {
         "api_key": "sk-0a6b9d29efa94458ad99009fcb5b46bb",
         "base_url": "https://api.deepseek.com",
-        "model": "deepseek-chat",
+        "model": "deepseek-reasoner",
         "temperature": 0.3
     }
 
@@ -32,7 +32,7 @@ class Settings:
 
     # 系统配置保持不变
     DOMAIN = "organic electrocatalysis"
-    MAX_TOKENS = 3000
+    MAX_TOKENS = 30000
 
     MODEL_DIR = os.path.join(BASE_DIR, "models")  # 模型存储根目录
 
