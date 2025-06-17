@@ -32,7 +32,7 @@ class Settings:
 
     # 系统配置保持不变
     DOMAIN = "organic electrocatalysis"
-    MAX_TOKENS = 3000
+    MAX_TOKENS = 30000
 
     MODEL_DIR = os.path.join(BASE_DIR, "models")  # 模型存储根目录
 
