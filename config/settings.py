@@ -23,7 +23,7 @@ class Settings:
     DEEPSEEK_API_CONFIG = {
         "api_key": "sk-0a6b9d29efa94458ad99009fcb5b46bb",
         "base_url": "https://api.deepseek.com",
-        "model": "deepseek-chat",
+        "model": "deepseek-reasoner",
         "temperature": 0.3
     }
 
