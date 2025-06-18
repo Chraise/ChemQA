@@ -1,0 +1,24 @@
+Question 9: What are the mechanistic insights into electrochemical oxidation of biomass-derived compounds?
+============================================================
+
+Processing Time: 71.24 seconds
+Context Chunks: 10
+Answer Length: 1904 characters
+
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 2
+- Citation Coverage: 20.0%
+- Unused Chunks: 8
+
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Zhou 等 - 2025 - Elevating nitrate reduction through the mastery of hierarchical hydrogen-bond networks.pdf
+   Chunk Index: 10
+   Citation Count: 2
+   Content Preview: hydrogen electrocatalysis on Pt. Nat. Catal. 2022, 5 10, 900911. 8 Wang, Y.-H.; Zheng, S.; Yang, W.-...
+
+2. Source: /Users/zemao/ChemQA/data/raw_papers/Zhu 等 - 2025 - Tuning local proton concentration and OOH intermediate generation for efficient acidic H2 O2 electrosynthesis at ampere‐level current density.pdf
+   Chunk Index: 6
+   Citation Count: 2
+   Content Preview: plays a crucial role in enhancing H2O2 synthesis. The local pH values of electrocatalysts during ele...
+

@@ -1,0 +1,29 @@
+Question 1: What are the key mechanisms of CO2 electroreduction on copper-based catalysts?
+============================================================
+
+Processing Time: 85.12 seconds
+Context Chunks: 10
+Answer Length: 2563 characters
+
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 3
+- Citation Coverage: 30.0%
+- Unused Chunks: 7
+
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Wang 等 - 2025 - Orientational geometry, surface density, and binding free energy of intermediates as full descriptors for electrochemical CO2 reduction at metal surfaces.pdf
+   Chunk Index: 15
+   Citation Count: 4
+   Content Preview: further reduced carbon products, can result in a slower reaction at the cost of producing the desire...
+
+2. Source: /Users/zemao/ChemQA/data/raw_papers/Li 等 - 2025 - Ampere-level co-electrosynthesis of formate from CO2 reduction paired with formaldehyde dehydrogenation reactions.pdf
+   Chunk Index: 17
+   Citation Count: 2
+   Content Preview: on the activity andatability in electrochemical CO2 reduction. J. Am. Chem. Soc. 141, 29112915 2019....
+
+3. Source: /Users/zemao/ChemQA/data/raw_papers/Li 等 - 2025 - Strong electronic interactions of the abundant CuCe interfaces stabilized Cu2 O for efficient CO2 electroreduction to C2+ products under large current density.pdf
+   Chunk Index: 4
+   Citation Count: 3
+   Content Preview: Ar or CO2 atmosphere Figure 4a. The Cu2OCeOx catalyst exhibits a more positive onset potential and h...
+

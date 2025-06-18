@@ -1,0 +1,29 @@
+Question 2: How does the coordination environment affect the performance of nickel-based electrocatalysts for alcohol oxidation?
+============================================================
+
+Processing Time: 129.89 seconds
+Context Chunks: 10
+Answer Length: 2517 characters
+
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 3
+- Citation Coverage: 30.0%
+- Unused Chunks: 7
+
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Kawajiri 等 - 2025 - Electrochemical oxidation of benzyl alcohols via hydrogen atom transfer mediated by 2,2,2-trifluoroethanol.pdf
+   Chunk Index: 1
+   Citation Count: 6
+   Content Preview: tendency toward decreased reactivity in electron- deficient benzyl alcohols. As an example of indire...
+
+2. Source: /Users/zemao/ChemQA/data/raw_papers/Lu 等 - 2025 - Unlocking single-atom induced electronic metal-support interactions in electrocatalytic one-electron water oxidation for wastewater purification.pdf
+   Chunk Index: 0
+   Citation Count: 2
+   Content Preview: Article https:doi.org10.1038s41467-025-59722-1 Unlocking single-atom induced electronic metal-suppor...
+
+3. Source: /Users/zemao/ChemQA/data/raw_papers/Dong 等 - 2025 - Interlayer-bonded NiMoO2 electrocatalyst for efficient hydrogen evolution reaction with stability over 6000 h at 1000 mA cm−2.pdf
+   Chunk Index: 8
+   Citation Count: 9
+   Content Preview: for HER and may inspire the synthesis of other electrocatalysts for various applications. Methods Ch...
+

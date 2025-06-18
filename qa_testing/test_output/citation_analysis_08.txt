@@ -1,0 +1,29 @@
+Question 8: How can we achieve high current density in organic electrosynthesis?
+============================================================
+
+Processing Time: 80.49 seconds
+Context Chunks: 10
+Answer Length: 1977 characters
+
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 3
+- Citation Coverage: 30.0%
+- Unused Chunks: 7
+
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Wu 等 - 2025 - Intermittent electrolysis enabling the enhanced efficiency and stability for nitrate reduction.pdf
+   Chunk Index: 15
+   Citation Count: 1
+   Content Preview: the working electrode was maintained at 0.5 cm2. For nitrate reduction, both the cathode and the ano...
+
+2. Source: /Users/zemao/ChemQA/data/raw_papers/Qian 等 - 2025 - Hydrophobic cation-immobilized covalent organic frameworks enable selective and stable electrosynthesis of ethylene from CO2.pdf
+   Chunk Index: 3
+   Citation Count: 4
+   Content Preview: 2a, the Faradaic efficiency FE of ethylene on the CuMe-COF and CuCOF electrodes significantly increa...
+
+3. Source: /Users/zemao/ChemQA/data/raw_papers/Feng 等 - 2025 - Electrochemical synthesis of allenyl silanes and allenyl boronic esters.pdf
+   Chunk Index: 1
+   Citation Count: 6
+   Content Preview: is mainly due to the impact of organic electrosynthesis on the development of sustainable process. I...
+

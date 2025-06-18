@@ -1,0 +1,24 @@
+Question 4: How can we improve the selectivity of electrochemical reduction of carbonyl compounds?
+============================================================
+
+Processing Time: 73.95 seconds
+Context Chunks: 10
+Answer Length: 1802 characters
+
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 2
+- Citation Coverage: 20.0%
+- Unused Chunks: 8
+
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Wang 等 - 2025 - Enhanced intermediates inter-migration on ag single-atom alloys for boosting multicarbon product selectivity in CO2 electroreduction.pdf
+   Chunk Index: 11
+   Citation Count: 1
+   Content Preview: 18 Yang, P.-P.; Gao, M.-R. Enrichment of reactants and intermediates for electrocatalytic CO2 reduct...
+
+2. Source: /Users/zemao/ChemQA/data/raw_papers/Kawajiri 等 - 2025 - Electrochemical oxidation of benzyl alcohols via hydrogen atom transfer mediated by 2,2,2-trifluoroethanol.pdf
+   Chunk Index: 7
+   Citation Count: 1
+   Content Preview: P. Metal- and Additive-Free Electrochemical Oxidation of Benzylic CX Bonds to Carbonyl Groups. Eur. ...
+

@@ -1,0 +1,24 @@
+Question 3: What are the recent advances in electrochemical C-H functionalization of aromatic compounds?
+============================================================
+
+Processing Time: 93.70 seconds
+Context Chunks: 10
+Answer Length: 2491 characters
+
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 2
+- Citation Coverage: 20.0%
+- Unused Chunks: 8
+
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Kawajiri 等 - 2025 - Electrochemical oxidation of benzyl alcohols via hydrogen atom transfer mediated by 2,2,2-trifluoroethanol.pdf
+   Chunk Index: 7
+   Citation Count: 1
+   Content Preview: P. Metal- and Additive-Free Electrochemical Oxidation of Benzylic CX Bonds to Carbonyl Groups. Eur. ...
+
+2. Source: /Users/zemao/ChemQA/data/raw_papers/Zhou 等 - 2025 - Elevating nitrate reduction through the mastery of hierarchical hydrogen-bond networks.pdf
+   Chunk Index: 10
+   Citation Count: 1
+   Content Preview: hydrogen electrocatalysis on Pt. Nat. Catal. 2022, 5 10, 900911. 8 Wang, Y.-H.; Zheng, S.; Yang, W.-...
+

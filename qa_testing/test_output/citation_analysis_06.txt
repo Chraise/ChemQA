@@ -1,0 +1,29 @@
+Question 6: How does the surface structure of platinum catalysts influence organic molecule oxidation?
+============================================================
+
+Processing Time: 83.67 seconds
+Context Chunks: 10
+Answer Length: 2497 characters
+
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 3
+- Citation Coverage: 30.0%
+- Unused Chunks: 7
+
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Zhong 等 - 2025 - Cascade electrocatalytic reduction of nitrate to ammonia using bimetallic covalent organic frameworks with tandem active sites.pdf
+   Chunk Index: 9
+   Citation Count: 5
+   Content Preview: reasons. Firstly, the COFs are functioned as promising support to anchoring Cu and Co single atoms w...
+
+2. Source: /Users/zemao/ChemQA/data/raw_papers/Niu 等 - 2025 - Cobalt‐oxygen coordination steering NO hydrogenation in nitrate electroreduction.pdf
+   Chunk Index: 1
+   Citation Count: 5
+   Content Preview: proceeds through a series of reduction steps: beginning with the adsorp- tion of NO3onto the catalys...
+
+3. Source: /Users/zemao/ChemQA/data/raw_papers/Guo 等 - 2025 - Selective CO electroreduction to multicarbon oxygenates over atomically dispersed cu–ag sites in alkaline membrane electrode assembly electrolyzer.pdf
+   Chunk Index: 8
+   Citation Count: 5
+   Content Preview: formation of CCO, which is further reduced to ethanol and acetate, while the hydrogenation of COCOH ...
+

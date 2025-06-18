@@ -1,0 +1,29 @@
+Question 5: What role do electrolyte additives play in organic electrocatalysis?
+============================================================
+
+Processing Time: 77.91 seconds
+Context Chunks: 10
+Answer Length: 2001 characters
+
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 3
+- Citation Coverage: 30.0%
+- Unused Chunks: 7
+
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Feng 等 - 2025 - Electrochemical synthesis of allenyl silanes and allenyl boronic esters.pdf
+   Chunk Index: 1
+   Citation Count: 7
+   Content Preview: is mainly due to the impact of organic electrosynthesis on the development of sustainable process. I...
+
+2. Source: /Users/zemao/ChemQA/data/raw_papers/Yang 等 - 2025 - Ampere‐level 4000 h parallel alcohols electro‐refinery and hydrogen production.pdf
+   Chunk Index: 2
+   Citation Count: 2
+   Content Preview: AHSE for harnessing neutralization energy to overcome the high overpotential obstacle in an electroc...
+
+3. Source: /Users/zemao/ChemQA/data/raw_papers/Zhu 等 - 2025 - Tuning local proton concentration and OOH intermediate generation for efficient acidic H2 O2 electrosynthesis at ampere‐level current density.pdf
+   Chunk Index: 6
+   Citation Count: 3
+   Content Preview: plays a crucial role in enhancing H2O2 synthesis. The local pH values of electrocatalysts during ele...
+
