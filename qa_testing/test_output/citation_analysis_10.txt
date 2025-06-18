@@ -1,51 +1,34 @@
-答案引用上下文片段分析报告
-==================================================
+Question 1: How does the pH of electrolyte affect the reaction pathways in organic electrocatalysis?
+============================================================
 
-引用分析摘要:
-- 总上下文片段数: 10
-- 被引用的片段数: 7
-- 未使用的片段数: 3
-- 引用覆盖率: 70.0%
-- 被引用的片段来源: /Users/zemao/ChemQA/data/raw_papers/Wu 等 - 2025 - Intermittent electrolysis enabling the enhanced efficiency and stability for nitrate reduction.pdf, /Users/zemao/ChemQA/data/raw_papers/Townsend 等 - 2025 - The role of carbon catalyst coatings in the electrochemical water splitting reaction.pdf, /Users/zemao/ChemQA/data/raw_papers/Qian 等 - 2025 - Elucidating the activity of electrochemical nitrate reduction high-valent anionic intermediates as kinetic gatekeepers.pdf, /Users/zemao/ChemQA/data/raw_papers/Yang 等 - 2025 - Ampere‐level 4000 h parallel alcohols electro‐refinery and hydrogen production.pdf, /Users/zemao/ChemQA/data/raw_papers/Zhu 等 - 2025 - Tuning local proton concentration and OOH intermediate generation for efficient acidic H2 O2 electrosynthesis at ampere‐level current density.pdf 等7个来源
+Processing Time: 97.50 seconds
+Context Chunks: 10
+Answer Length: 2009 characters
 
-详细统计:
-总上下文片段数: 10
-被引用的片段数: 7
-引用覆盖率: 70.0%
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 4
+- Citation Coverage: 40.0%
+- Unused Chunks: 6
 
-被引用的片段详情:
-1. 来源: /Users/zemao/ChemQA/data/raw_papers/Yang 等 - 2025 - Ampere‐level 4000 h parallel alcohols electro‐refinery and hydrogen production.pdf
-   片段索引: 2
-   引用次数: 4
-   内容预览: AHSE for harnessing neutralization energy to overcome the high overpotential obstacle in an electroc...
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Li 等 - 2025 - Non-isothermal CO2 electrolysis enables simultaneous enhanced electrochemical and anti-precipitation performance.pdf
+   Chunk Index: 1
+   Citation Count: 4
+   Content Preview: electric ﬁeld, buffering the interfacial pH, and stabilizing reaction intermediates1618. However, th...
 
-2. 来源: /Users/zemao/ChemQA/data/raw_papers/Dong 等 - 2025 - Interlayer-bonded NiMoO2 electrocatalyst for efficient hydrogen evolution reaction with stability over 6000 h at 1000 mA cm−2.pdf
-   片段索引: 8
-   引用次数: 2
-   内容预览: for HER and may inspire the synthesis of other electrocatalysts for various applications. Methods Ch...
+2. Source: /Users/zemao/ChemQA/data/raw_papers/Qi 等 - 2025 - Single-atom ru-triggered lattice oxygen redox mechanism for enhanced acidic water oxidation.pdf
+   Chunk Index: 6
+   Citation Count: 2
+   Content Preview: in the electrolyte on the OER reaction time. f Comparison of the OER activity for various reported e...
 
-3. 来源: /Users/zemao/ChemQA/data/raw_papers/Qian 等 - 2025 - Elucidating the activity of electrochemical nitrate reduction high-valent anionic intermediates as kinetic gatekeepers.pdf
-   片段索引: 1
-   引用次数: 11
-   内容预览: inevitably electrolyze into the proton and nitrate ion. The other representation points out that NO3...
+3. Source: /Users/zemao/ChemQA/data/raw_papers/Xu 等 - 2025 - Breaking supercapacitor symmetry enhances electrochemical carbon dioxide capture.pdf
+   Chunk Index: 3
+   Citation Count: 1
+   Content Preview: large amount of physical ion sorption or exchange. Under the electric field, cations and anions move...
 
-4. 来源: /Users/zemao/ChemQA/data/raw_papers/Wu 等 - 2025 - Intermittent electrolysis enabling the enhanced efficiency and stability for nitrate reduction.pdf
-   片段索引: 23
-   引用次数: 1
-   内容预览: Electroreduction for Boosting the Electrocatalytic Urea Synthesis. Angew. Chem. Int. Ed. Engl. 63, e...
-
-5. 来源: /Users/zemao/ChemQA/data/raw_papers/Townsend 等 - 2025 - The role of carbon catalyst coatings in the electrochemical water splitting reaction.pdf
-   片段索引: 15
-   引用次数: 2
-   内容预览: 16, 5769 2016. 3. Song, F. et al. Transition metal oxides as electrocatalysts for the oxygen evoluti...
-
-6. 来源: /Users/zemao/ChemQA/data/raw_papers/Zhu 等 - 2025 - Tuning local proton concentration and OOH intermediate generation for efficient acidic H2 O2 electrosynthesis at ampere‐level current density.pdf
-   片段索引: 6
-   引用次数: 4
-   内容预览: plays a crucial role in enhancing H2O2 synthesis. The local pH values of electrocatalysts during ele...
-
-7. 来源: /Users/zemao/ChemQA/data/raw_papers/Jia 等 - 2025 - Closed-loop framework for discovering stable and low-cost bifunctional metal oxide catalysts for efficient electrocatalytic water splitting in acid.pdf
-   片段索引: 17
-   引用次数: 1
-   内容预览: K.; Jaramillo, T. F. Combining theory and experiment in electrocatalysis: Insights into materials de...
+4. Source: /Users/zemao/ChemQA/data/raw_papers/Guan 等 - 2025 - Cathode–anode synergy electrosynthesis of propanamide via a bipolar C–N coupling reaction.pdf
+   Chunk Index: 7
+   Citation Count: 5
+   Content Preview: and NH2OH necessitates a cathodic electric field and localized pH conditions. The reaction path was ...
 

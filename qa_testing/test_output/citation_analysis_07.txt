@@ -1,21 +1,19 @@
-答案引用上下文片段分析报告
-==================================================
+Question 1: What are the challenges and solutions for electrochemical synthesis of heterocyclic compounds?
+============================================================
 
-引用分析摘要:
-- 总上下文片段数: 10
-- 被引用的片段数: 1
-- 未使用的片段数: 9
-- 引用覆盖率: 10.0%
-- 被引用的片段来源: /Users/zemao/ChemQA/data/raw_papers/Dong 等 - 2025 - Interlayer-bonded NiMoO2 electrocatalyst for efficient hydrogen evolution reaction with stability over 6000 h at 1000 mA cm−2.pdf
+Processing Time: 72.46 seconds
+Context Chunks: 10
+Answer Length: 1631 characters
 
-详细统计:
-总上下文片段数: 10
-被引用的片段数: 1
-引用覆盖率: 10.0%
+Citation Analysis Summary:
+- Total Context Chunks: 10
+- Cited Chunks: 1
+- Citation Coverage: 10.0%
+- Unused Chunks: 9
 
-被引用的片段详情:
-1. 来源: /Users/zemao/ChemQA/data/raw_papers/Dong 等 - 2025 - Interlayer-bonded NiMoO2 electrocatalyst for efficient hydrogen evolution reaction with stability over 6000 h at 1000 mA cm−2.pdf
-   片段索引: 8
-   引用次数: 3
-   内容预览: for HER and may inspire the synthesis of other electrocatalysts for various applications. Methods Ch...
+Cited Chunks Details:
+1. Source: /Users/zemao/ChemQA/data/raw_papers/Wu 等 - 2025 - Intermittent electrolysis enabling the enhanced efficiency and stability for nitrate reduction.pdf
+   Chunk Index: 21
+   Citation Count: 1
+   Content Preview: Commun. 11, 3489. https:doi.org10.1038s41467-020-17220-6. 8. Gao, Q., Yao, B., Pillai, H.S., Zang, W...
 
