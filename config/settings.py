@@ -16,8 +16,8 @@ class Settings:
     CHUNK_OVERLAP = 50
 
     # 向量存储配置
-    EMBEDDING_MODEL = "text2vec/paraphrase-multilingual-MiniLM-L12-v2"  # 使用本地模型
-    RETRIEVAL_TOP_K = 10  # 增加检索文档数量
+    EMBEDDING_MODEL = "text2vec/paraphrase-multilingual-MiniLM-L12-v2"
+    RETRIEVAL_TOP_K = 10
 
     # 更新为DeepSeek API配置
     DEEPSEEK_API_CONFIG = {
@@ -34,6 +34,6 @@ class Settings:
     DOMAIN = "organic electrocatalysis"
     MAX_TOKENS = 30000
 
-    MODEL_DIR = os.path.join(BASE_DIR, "models")  # 模型存储根目录
+    MODEL_DIR = os.path.join(BASE_DIR, "models")
 
 settings = Settings()

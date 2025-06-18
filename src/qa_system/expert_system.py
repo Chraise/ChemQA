@@ -60,12 +60,12 @@ class ChemicalQAExpert:
         """保存回答为Markdown文件"""
         output_dir = Path("output")
         output_dir.mkdir(exist_ok=True)
-        md_file = output_dir / "answer.md"
+        md_file = output_dir / "answer_6.md"
         with open(md_file, "w", encoding="utf-8") as f:
             f.write(answer)
         logger.info(f"回答已保存为 {md_file}")
 
-    def analyze_existing_answer(self, answer_file: str = "output/answer.md"):
+    def analyze_existing_answer(self, answer_file: str = "output/answer_6.md"):
         """分析现有答案文件的引用情况"""
         try:
             # 检查文件是否存在
